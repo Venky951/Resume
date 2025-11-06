@@ -1,0 +1,39 @@
+#port {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    gap: 100px;
+
+
+
+}
+
+#cl {
+    margin-right: 5%;
+    margin-left: 5%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.in {
+    float: right;
+}
+
+.headings {
+    text-transform: uppercase;
+    border-bottom: 0.5px solid black;
+}
+
+pre {
+    text-align: center;
+}
+
+.profile {
+    text-decoration: none;
+    color: black;
+}
+
+h3 {
+
+    border-bottom: 0.5px solid black;
+}
